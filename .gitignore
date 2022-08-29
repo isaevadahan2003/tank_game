@@ -1,0 +1,7 @@
+.idea
+venv
+.highscore.txt
+.py
+__pycharm__
+images
+__pycache__
